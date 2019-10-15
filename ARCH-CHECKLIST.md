@@ -1,5 +1,5 @@
-Key Alphas Checklists.
-(C) OMG Essence
+Key Alphas Checklists with customised Architecture sub-alpha.
+(C) [OMG Essence](https://www.vis.wiwi.uni-due.de/uploads/tx_itochairt3/publications/vissoft17tool-essence.pdf)
 
 # Stakeholders
 ## Recognized
@@ -177,14 +177,44 @@ The constraints that apply to the selection, acquisition and use of practices an
 [ ] There are no outstanding requirement items preventing the system from being accepted as fully satisfying the requirements.
 [ ] The system is accepted by the stakeholders as fully satisfying the requirements.
 
-# Software System
-## Architecture Selected
+# Software System Architecture
+## Is the result of open fair communication
+[ ] Team: Collaborating
+## Justifiable 
+[ ] Stakeholders: In Agreement
+[ ] Opportunity: Value Established
+[ ] Way of Working: Foundation Established (dealing with uncertainty)
+[ ] Requirements: Acceptable
+## Focused
+[ ] System boundary is known
+[ ] System Profile is set
+[ ] PoVs risk-driven selected
+[ ] Inner NFRs model defined
+## Hypotesis
+[ ] Key requirements and context trade-offs defined
+[ ] (Logical structure PoV) Core function/module contracts defined
+[ ] Project plan and estimates made
+[ ] Selected PoVs are fulfilled: key decisions made or set up hypothesis
+[ ] Coupled teams involved according to established Way of Working
+## Refined
+[ ] (Solution Architecture PoV) Core implementation/component buy, build and reuse decisions have been made
+[ ] Project plan and estimates refined 
+[ ] Selected PoVs are fulfilled: key hypothesis researches made
+[ ] Coupled teams involved according to established Way of Working
+## Communicated and documented
+[ ] Key architecture decisions are documented 
+[ ] Coupled teams are informed of refined architecture 
+## Approved 
+[ ] Coupled teams and key stakeholders approve key architecture decisions
+
+## Selected
 [ ] The criteria to be used when selecting the architecture have been agreed on.
 [ ] Hardware platforms have been identified.
 [ ] Programming languages and technologies to be used have been selected.
-[ ] System boundary is known.
 [ ] Significant decisions about the organization of the system have been made.
 [ ] Buy, build and reuse decisions have been made.
+
+# Software System Implementation
 ## Demonstrable
 [ ] Key architectural characteristics have been demonstrated.
 [ ] The system can be exercised and its performance can be measured.
