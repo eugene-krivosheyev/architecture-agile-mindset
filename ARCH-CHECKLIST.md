@@ -102,12 +102,12 @@ Key Alphas Checklists with customised Architecture sub-alpha.
 
 # Way of Working
 ## Principles Established
-Principles and constraints are committed to by the team.
-Principles and constraints are agreed to by the stakeholders.
-The tool needs of the work and its stakeholders are agreed.
-A recommendation for the approach to be taken is available.
-The context within which the team will operate is understood.
-The constraints that apply to the selection, acquisition and use of practices and tools are known.
+[ ] Principles and constraints are committed to by the team.
+[ ] Principles and constraints are agreed to by the stakeholders.
+[ ] The tool needs of the work and its stakeholders are agreed.
+[ ] A recommendation for the approach to be taken is available.
+[ ] The context within which the team will operate is understood.
+[ ] The constraints that apply to the selection, acquisition and use of practices and tools are known.
 ## Foundation Established
 [ ] The key practices and tools that form the foundation of the way-of-working are selected.
 [ ] Enough practices for work to start are agreed to by the team.
@@ -206,13 +206,6 @@ The constraints that apply to the selection, acquisition and use of practices an
 [ ] Coupled teams are informed of refined architecture 
 ## Approved 
 [ ] Coupled teams and key stakeholders approve key architecture decisions
-
-## Selected
-[ ] The criteria to be used when selecting the architecture have been agreed on.
-[ ] Hardware platforms have been identified.
-[ ] Programming languages and technologies to be used have been selected.
-[ ] Significant decisions about the organization of the system have been made.
-[ ] Buy, build and reuse decisions have been made.
 
 # Software System Implementation
 ## Demonstrable
