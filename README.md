@@ -58,7 +58,7 @@ _Архитектурный agile mindset – это обоснованност�
 - Продолжаем описание DoD
 
 ## Системная инженерия: как принимать обоснованные и прозрачные для бизнеса инженерные решения? (1)
-- От чего зависят решения в дизайне и архитектуре? [Где найти ответы, чтобы обосновать их?](https://www.planttext.com/api/plantuml/svg/LL3B3e8m4BplL_G7Y7zWa22668Y1U3240oaRR8GM-pWP_zsMbxINJcPsPsStLBgHsWmzZ0rzDHsI61NhEFa0iQywIVgiIH0SIPKnAaNGJd8Dy8Mj9Ht67WVakj5CpArxkS2tON8gKAklI8gQB32tU8RiZoPoPtAJWgBQ-gFudYobvm5bPxtNv0UISYg9IyuqKcqaMkvnoY-f_QzfMNh6aL6CM-TCjDXRUwVvdDj-6Gzh3CVjzm9lIQVEQM09vHZ_J10YR-tXVm00)
+- От чего зависят решения в дизайне и архитектуре? [Где найти ответы, чтобы обосновать их?](https://www.planttext.com/api/plantuml/svg/RLBBJiCm4BpxA_O78lu0zH6A8jHIDUA0gXmiPvLQ-17MDWWX_XqxSMW2-EBLpEnZrbuvpya7hLZFnGll44fqiZFmoI2Uyvh4fO6Yk8NpNWgoHJlG3MDVx2Ubqhr2ZSPpB-sOEgTF-1ea3G8trRMxKmCvFCHu3EKrkeAbrLp6ZhEAHx9j4AbP_U4ywgdgfdpQvQmxZTJ5ZfEV6wYC84X-f4VX0s74djU7-ohU3rLTvyIjLIhoyWtXyTqWkOliuSYzHp9kCSKcE6dGkRrjKSKHvjmsgA75Y2wLQPkPPvCkORzTiJysasg-pVyLesEsMFiCpmj9oFBXs0fD6x_2Dm00)
 - А дальше?
 - 5 «почему?»
 ### Архитектурный чек-лист
