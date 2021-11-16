@@ -1,5 +1,6 @@
 # Обоснованная системная архитектура
 _Обоснованность инженерных решений плюс инструменты работы с неопределённостью._
+[Чеклист](https://docs.google.com/document/d/1eaKCatDRRRmo8rvTVq9dhTNHvv8h2P8BcfwvkAOfZfQ/edit#)
 
 # Ожидания от аудитории
 - Доступ к github.com
