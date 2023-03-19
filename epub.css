@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    src:url('PTSans.ttc');
+}
+
+@font-face {
+    font-family: 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    src:url('HelveticaNeue.ttc');
+}
+
+
+body {
+    margin: 1%;
+    text-align: justify;
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+code { font-family: monospace; }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 1;
+}
+
+h1.title { }
+h1.subtitle {
+    font-size: small;
+    font-weight: normal;
+    font-style: italic;
+}
+h2.author { }
+h3.date { }
+
+ul {
+    list-style-type: "– ";
+    text-align: left;
+}
+
+ol.toc {
+    padding: 0;
+    margin-left: 1em;
+}
+
+ol.toc li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
