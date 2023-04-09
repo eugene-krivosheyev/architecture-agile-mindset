@@ -1,2 +1,3 @@
 .idea/
-arch-intro.epub
+*.epub
+*.pdf
