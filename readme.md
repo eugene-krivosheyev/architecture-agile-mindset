@@ -5,6 +5,7 @@ brew install pandoc
 
 pandoc \
 --toc \
+--citeproc \
 --metadata-file metadata.yml \
 --epub-embed-font='fonts/*.ttc' --embed-resources --standalone \
 --markdown-headings=setext \
