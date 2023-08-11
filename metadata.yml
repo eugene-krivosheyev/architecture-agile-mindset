@@ -10,10 +10,9 @@ creator:
   - role: author
     text: 'Евгений Кривошеев'
     email: 'eugene.krivosheyev@gmail.com'
-
+bibliography: bibliography.bib
 date: '2023-03-19'
 description: 'Минимально необходимое погружение в проектирование системной архитектуры для вовлеченных в архитектурную деятельность'
 lang: 'ru-RU'
-
 css: 'epub.css'
 ...
